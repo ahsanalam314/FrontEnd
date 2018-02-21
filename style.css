@@ -1,0 +1,143 @@
+body{
+    margin: auto;
+    padding: 0;
+    background-color: #222;
+    color: aliceblue;
+}
+
+.head-text {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.md-text {
+    
+    font-weight: 300px;
+    margin-left: 180px;
+}
+
+h2 {
+    font-family: 'Merriweather';
+    margin-top: 10px;
+    color: aliceblue;
+}
+
+h3 {
+    margin-top: 20px;
+    color: aliceblue;
+    font-family: 'Roboto Mono', serif;
+    font-weight: 30px;
+    font-size: 1.6em;
+
+}
+
+hr { 
+    color: aliceblue;
+    border: solid 1px aliceblue;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+
+.space {
+    margin-top: 80px;
+    margin-left: 1000px;
+}
+
+.ext-div {
+    margin-left: 320px;
+}
+
+.ext-link {
+    /* font-size: 25px;    
+    background-color: #e6cc22;
+    border: #e6cc22 solid 2px;
+    color: #222; */
+}
+
+button {
+    border: 2px solid #e6cc22;
+    border-radius: 4px;
+    background-color: #e6cc22;
+    text-align: center;
+    font-family: 'Roboto Mono', serif;
+    color: #222;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1.1em;
+    line-height: 1.5em;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.ext-link:hover {
+    /* background-color: #222;
+    border: blanchedalmond solid 2px;
+    color:blanchedalmond; */
+}
+
+button:hover {
+    border: blanchedalmond solid 2px;
+    background-color: #222;
+    color: blanchedalmond;
+
+}
+
+
+.mid-text h1{
+    line-height: 1.8;
+    font-size: 60px;
+}
+
+.mid-text h5{
+    line-height: 1.8;
+}
+
+.content-area{
+    /* width: 1100px;
+    height: 900px; */
+    /* background-color: aqua; */
+    margin-left: 100px;
+    background-color: #222;
+}
+
+.common{
+    height: 300px;
+    background-color: #222;
+    border: #222 solid 1px;
+}
+
+table, tr {
+    border: #222 1px solid;
+}
+
+.loc{
+
+}
+
+.location {
+    width: 400px;
+}
+
+.ftr-hr{
+    border:solid #e6cc22 6px;
+}
+
+.ftr-link{
+    line-height: 3em;
+    
+}
+
+.link{
+    color: #e6cc22;
+    text-decoration: underline;
+}
+
+.link:hover{
+    color: azure;
+    text-decoration: none;
+}
+
+
